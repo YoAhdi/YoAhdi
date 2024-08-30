@@ -2,9 +2,9 @@
 
 Hi, I'm Ahad, im an Aspiring Software Engineer from the Los Angeles Metropolitan Area. Some of my professional skills are in C++, Java, Python, HTML, Swift, SQL, Svelte and CSS. 
 
-- 🔭 I’m currently working on my Bachelors Degree education in Computer Science. Am also currently a Software Engineering Intern at a Software Company.
+- 🔭 I’m currently working on my Bachelors Degree education in Computer Science. Had priority expierence at as a Software Engineering Intern at a Software Company.
 - 🌱 I’m currently learning Upper Division CS courses. 
-- 👯 I’m looking to collaborate on Projects primarily Front End Development and Cloud.
+- 👯 I’m looking to collaborate on Projects primarily Artifical Inteligence and Cloud.
 - 📫 How to reach me: ahadahmad.work@gmail.com
 <!--
 **YoAhdi/YoAhdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
