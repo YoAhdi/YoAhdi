@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Ahad, im an Aspiring Software Engineer from the Los Angeles Metropolitan Area. Some of my professional skills are in C++, Java, , Javascript, Next.js, React.js, Python, HTML, Swift, SQL, Svelte and CSS. 
+Hi, I'm Ahad, im an Aspiring Software Engineer from the Los Angeles Metropolitan Area. Some of my professional skills are in C++, Java, , Javascript, Next.js, React.js, Python, HTML, Kotlin, Swift, SQL, Svelte and CSS. 
 
 - 🔭 I’m currently working on my Bachelors Degree education in Computer Science. Had previous expierence at as a Software Engineering Intern at a Software Company.
 - 🌱 I’m currently learning Upper Division CS courses. 
